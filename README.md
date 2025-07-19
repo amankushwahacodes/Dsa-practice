@@ -17,18 +17,9 @@ Problems are organized by topic:
 
 Each file includes a link to the original problem and a brief explanation of the approach.
 
-## Example
+## 🧩 Recent Problems Solved
 
-```js
-// https://leetcode.com/problems/two-sum/
-// Approach: Hashmap for O(n) lookup
+| Date       | Problem                         | Platform   | Approach     | Link |
+|------------|----------------------------------|------------|--------------|------|
+| 2025-07-17 | Two Sum                         | LeetCode   | Simple      | [🔗](https://leetcode.com/problems/two-sum/) |
 
-function twoSum(nums, target) {
-  const map = new Map();
-  for (let i = 0; i < nums.length; i++) {
-    const diff = target - nums[i];
-    if (map.has(diff)) return [map.get(diff), i];
-    map.set(nums[i], i);
-  }
-}
-```
