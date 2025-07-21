@@ -25,3 +25,4 @@ Each file includes a link to the original problem and a brief explanation of the
 | 2025-07-20 | ArrayIsSorted                   | LeetCode   | Simple      | [🔗](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|
 | 2025-07-21 | removeDuplicatesFromSortedArray | LeetCode   | Two Pointer | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 2025-07-21 | rotateArray                     | LeetCode   | Simple      | [🔗](https://leetcode.com/problems/rotate-array/) |
+| 2025-07-21 | moveZeroes                     | LeetCode   | Two pointer      | [🔗](https://leetcode.com/problems/move-zeroes) |
