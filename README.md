@@ -27,4 +27,5 @@ Each file includes a link to the original problem and a brief explanation of the
 | 2025-07-21 | rotateArray                     | LeetCode   | Simple      | [🔗](https://leetcode.com/problems/rotate-array/) |
 | 2025-07-21 | moveZeroes                     | LeetCode   | Two pointer      | [🔗](https://leetcode.com/problems/move-zeroes) |
 | 2025-07-22 | missingNumber                     | LeetCode   | Simple     | [🔗](https://leetcode.com/problems/missing-number/) |
-| 2025-07-22 | maxOnes                     | Simple   | Simple     | [🔗](https://leetcode.com/problems/max-consecutive-ones/) |
+| 2025-07-22 | maxOnes                     | Leetcode   | Simple     | [🔗](https://leetcode.com/problems/max-consecutive-ones/) |
+| 2025-07-22 | Single Num                     | Leetcode   | Simple     | [🔗](https://leetcode.com/problems/single-number) |
