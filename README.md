@@ -30,4 +30,6 @@ Each file includes a link to the original problem and a brief explanation of the
 | 2025-07-22 | maxOnes                     | Leetcode   | Simple     | [🔗](https://leetcode.com/problems/max-consecutive-ones/) |
 | 2025-07-22 | Single Num                     | Leetcode   | Simple     | [🔗](https://leetcode.com/problems/single-number) |
 | 2025-07-24 | Two sum                  | Leetcode   | Hashing     | [🔗](https://leetcode.com/problems/two-sum/) |
-| 2025-07-24 | Sort colors                  | Leetcode   | Dutch flag     | [🔗](https://leetcode.com/problems/sort-colors/) |
+| 2025-07-25 | Sort colors                  | Leetcode   | Dutch flag     | [🔗](https://leetcode.com/problems/sort-colors/) |
+| 2025-07-25 | Majority elements                | Leetcode   | Moore's voting     | [🔗](https://leetcode.com/problems/sort-colors/) |
+
