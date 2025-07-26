@@ -33,4 +33,5 @@ Each file includes a link to the original problem and a brief explanation of the
 | 2025-07-25 | Sort colors                  | Leetcode   | Dutch flag     | [🔗](https://leetcode.com/problems/sort-colors/) |
 | 2025-07-25 | Majority elements                | Leetcode   | Moore's voting     | [🔗](https://leetcode.com/problems/sort-colors/) |
 | 2025-07-26 | Maximum subarray sum                | Leetcode   | Kadane's algo    | [🔗](https://leetcode.com/problems/maximum-subarray/) |
+| 2025-07-26 | Buy and sell stock              | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 
