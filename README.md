@@ -37,4 +37,5 @@ Each file includes a link to the original problem and a brief explanation of the
 | 2025-07-29 | Rearrange array elements            | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
 | 2025-07-30 | Next Permutation       | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/next-permutation/) |
 | 2025-07-1 | Longest Consecutive sequence     | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| 2025-07-4 | Set matrix zeroes  | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/set-matrix-zeroes/) |
 
