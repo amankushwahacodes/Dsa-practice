@@ -39,4 +39,5 @@ Each file includes a link to the original problem and a brief explanation of the
 | 2025-07-1 | Longest Consecutive sequence     | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 2025-07-4 | Set matrix zeroes  | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 2025-07-4 | Rotate 90 deg  | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/rotate-image/) |
+| 2025-07-14 | Spiral Matrix  | Leetcode   | Simple   | [🔗](https://leetcode.com/problems/spiral-matrix/) |
 
